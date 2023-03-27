@@ -19,7 +19,7 @@ This will be a fun one! Your challenge is to build this countdown timer. There a
 ## Resources
 
 - Challange URL: [Click here](#)
-- Live Site URL: [Click here](#)
+- Live Site URL: [Click here](https://lukenso.github.io/Launch-countdown-timer/)
 ## Author
 
 - LinkedIn - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
