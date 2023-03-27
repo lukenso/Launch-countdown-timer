@@ -18,7 +18,7 @@ This will be a fun one! Your challenge is to build this countdown timer. There a
 
 ## Resources
 
-- Challange URL: [Click here](#)
+- Challange URL: [Click here](https://www.frontendmentor.io/solutions/launch-countdown-timer-1wKdaL1PNR)
 - Live Site URL: [Click here](https://lukenso.github.io/Launch-countdown-timer/)
 ## Author
 
