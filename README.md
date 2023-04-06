@@ -12,7 +12,7 @@ This will be a fun one! Your challenge is to build this countdown timer. There a
 - Responsive Design
 - JavaScript
 
-## Designed for ony two devices 
+## Designed for only two devices 
 - Mobile (375px)
 - Desktop(1440px)
 
